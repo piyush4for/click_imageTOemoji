@@ -8,8 +8,10 @@ Config.backgroundColor = '#FC0';
 //piece:
 Config.originalSize = { width: 400, height: 425 };
 
-Config.image.src = "aj.png";
-Config.image.transform = [-135.5, 20, 0.9473, 0.9473];
-
-Config.sound.click = "sounds/glassbreaking";
-Config.sound.loop = "sounds/loop";
+// nitish babu
+//Config.image.src = "nitush.png";
+//Config.image.transform = [53.5, 30, 0.9473, 0.9473];
+                            // rightleft,updown ,  , vertical length    
+//paani
+Config.image.src = "pp-removebg-preview.png";
+Config.image.transform = [-145, -177, 1.2, 1.4];
