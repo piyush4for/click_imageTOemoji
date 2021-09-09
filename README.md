@@ -5,4 +5,4 @@ just by clicking on any face part , a doodle will came and make the face funnier
 click on hair, eyes ,lips to see changes.
 
 #check it
-[LINK](https://piyush4for.github.io/Onclick_imageTOemoji/)
+[LINK](https://piyush4for.github.io/click_imageTOemoji/)
