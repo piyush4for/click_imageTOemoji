@@ -13,5 +13,5 @@ Config.originalSize = { width: 400, height: 425 };
 //Config.image.transform = [53.5, 30, 0.9473, 0.9473];
                             // rightleft,updown ,  , vertical length    
 //paani
-Config.image.src = "pp-removebg-preview.png";
-Config.image.transform = [-145, -177, 1.2, 1.4];
+Config.image.src = "piyush.png";
+Config.image.transform = [-65, -15, 1.2, 1.2];
